@@ -72,8 +72,8 @@ Customer Personality Analysis is a detailed analysis of a company's ideal custom
 <img src="images/123.png" alt="123.png" height="382px">
 </p>
 
-[![](https://github.com/sushant8525/Customer-Personality-Analysis/blob/64bd4d884df1b43e2c12e91f5af12e441a285398/images/123.png)]
-https://customer-personality-analysis.onrender.com/
+
+https://cpa-mxyo.onrender.com/
 
 
 # 
