@@ -7,7 +7,7 @@
 <p align="center"> 
 <img src="images/all.png" alt="all.png" height="382px">
 </p>
-<h3 align="center"> Ineuron Verfied Project - <a href="https://www.ineuron.com/"> ineuron </a> </h5>
+
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -99,4 +99,4 @@ https://customer-personality-analysis.onrender.com/
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajit-padole-537366180/)
+
