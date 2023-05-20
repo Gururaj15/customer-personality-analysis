@@ -1,8 +1,6 @@
 
 
-<p align="center"> 
-  <img src="images/2.png" alt="2.png" width="80px" height="80px">
-<h1 align="center"> Customer-Personality-Analysis  </h1> 
+
      
 <p align="center"> 
 <img src="images/all.png" alt="all.png" height="382px">
