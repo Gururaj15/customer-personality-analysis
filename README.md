@@ -67,7 +67,7 @@ Customer Personality Analysis is a detailed analysis of a company's ideal custom
 <h2> :book: Depoyment on  render.com</h2>
 
 <p align="center"> 
-<img src="Screenshot(12).png" alt="123.png" height="382px">
+<img src="images/Screenshot (12).png" alt="123.png" height="382px">
 </p>
 
 
